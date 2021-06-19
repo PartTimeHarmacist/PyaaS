@@ -4,4 +4,4 @@ WORKDIR /opt/pyfaas
 
 COPY src /opt/pyfaas
 
-CMD python -m pyfaas.main
+CMD python -m pyfaas.pyfaas
